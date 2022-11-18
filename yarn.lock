@@ -73,10 +73,10 @@
   dependencies:
     "@types/node" "*"
 
-amethystjs@^1.0.4:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/amethystjs/-/amethystjs-1.0.4.tgz#b85ff09c3d2e6135f4d5d86d0d86f198c79b4801"
-  integrity sha512-TNhKmNvaRaJLbkdl21P6kiC0mPp3vzFxA2AP/qABT2P2HRFcoD5gxTt5sIQHWFUw/Lu52vZW31VmPbprIFxybQ==
+amethystjs@^1.0.51:
+  version "1.0.51"
+  resolved "https://registry.yarnpkg.com/amethystjs/-/amethystjs-1.0.51.tgz#66acac896237d5fbda58788ea1061d3e59f00b9c"
+  integrity sha512-w32s77vEfu7BumZMJFimP2DgLaQDkxM8SvahtpFPBNviRWPjHbB4z96Mt3qNMKWI50PSo5PV3eIm5b1M6eqaSg==
   dependencies:
     discord.js "^14.6.0"
     fs "^0.0.1-security"

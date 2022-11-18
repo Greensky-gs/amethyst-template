@@ -6,7 +6,7 @@
   "author": "Greensky <david.hesliere@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "amethystjs": "^1.0.4",
+    "amethystjs": "^1.0.51",
     "dotenv": "^16.0.3",
     "prettier": "^2.7.1",
     "tsc": "^2.0.4",
